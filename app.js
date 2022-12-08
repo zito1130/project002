@@ -1,5 +1,6 @@
-let try2 = require("./try2");
+let greeting = require("./greeting");
 
-let myName = "zito chen";
+let myName = "Dosh";
 
-try2.night(myName);
+greeting.night(myName);
+greeting.sayHi(myName);
